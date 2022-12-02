@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a passionate software engineer interested in usability and sustainability. Currently working at Red Hat.
+
+You can find me on <a rel="me" href="https://mastodon.social/@metacosm">Mastodon</a>.
+
 <!--
 **metacosm/metacosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
